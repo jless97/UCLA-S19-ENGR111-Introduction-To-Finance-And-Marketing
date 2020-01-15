@@ -1,4 +1,4 @@
-# ENGR111, Introduction To Finance And Marketing, Spring 2019
+# ENGR111, Introduction To Finance And Marketing, Spring 2019 
 
 ## Course Objective
 Introduction to Corporate Finance
